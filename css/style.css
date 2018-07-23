@@ -6,8 +6,12 @@ body {
 	padding: 0;
 }
 
+a {
+	color: #d21034;
+}
+
 header {
-	padding-left:15px;
+	padding-left:40%;
 	background-color: #333333;
 	color: #eee;
 }
@@ -38,7 +42,6 @@ h2 {
 
 #contact-info a {
 	line-height: 1.5;
-	color: #d21034;
 }
 
 #bio-image {
