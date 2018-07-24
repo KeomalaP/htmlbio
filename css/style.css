@@ -25,6 +25,26 @@ h2 {
 	font-size: 24px;
 }
 
+article::first-letter {
+	font-size: 200%;
+}
+
+article p:hover {
+	font-family: 'IBM Plex Serif', serif;
+}
+
+article p:active {
+	font-family: 'Satisfy', cursive;
+}
+
+#portLink:hover {
+	background-color: pink;
+}
+
+#portLink:focus {
+	color: green;
+}
+
 .container {
 	width: 1024px;
 	margin: 0 auto;
